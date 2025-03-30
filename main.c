@@ -11,7 +11,7 @@ main ()
       read_input (input);
       if (strcmp (input, "exit") == 0)
         {
-          printf ("Exiting sheel...\n");
+          printf ("Exiting CSheel...\n");
           break;
         }
       parse_input (input, args);
