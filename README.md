@@ -9,7 +9,7 @@ Clone the repository and compile CSheel:
 ```bash
 git clone https://github.com/dracuxan/CSheel.git && cd CSheel
 
-./run.sh # runs the shell after creating binary in bin directory
+./run.sh main # runs the shell after creating binary in bin directory
 ```
 
 ![image](https://github.com/user-attachments/assets/a4f2247d-74ad-4535-8b48-a4e168a02774)
